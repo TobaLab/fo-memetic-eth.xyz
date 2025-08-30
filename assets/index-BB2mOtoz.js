@@ -16111,7 +16111,7 @@ function R1() {
             className: "flex flex-wrap justify-center gap-6",
             children: [
               x.jsx("a", {
-                href: "https://t.me/Memetic_eth",
+                href: "https://t.me/MemeticOnETH",
                 className:
                   "bg-fire-orange text-white p-6 rounded-full text-2xl font-bold transform transition-all duration-300 hover:scale-110 shadow-lg",
                 style: { boxShadow: "0 0 15px #ffd700" },
@@ -16121,7 +16121,7 @@ function R1() {
                 children: "📱 Telegram",
               }),
               x.jsx("a", {
-                href: "https://x.com/memetic_eth?s=21&t=7_ukHrFPInDX203u8cRIbA",
+                href: "https://x.com/MemeticOnETH",
                 className:
                   "bg-fire-orange text-white p-6 rounded-full text-2xl font-bold transform transition-all duration-300 hover:scale-110 shadow-lg",
                 style: { boxShadow: "0 0 15px #ffd700" },
